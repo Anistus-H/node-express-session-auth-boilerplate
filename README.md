@@ -105,4 +105,4 @@ The server will run at `http://localhost:3000`.
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ## License
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
